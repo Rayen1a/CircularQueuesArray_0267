@@ -69,5 +69,7 @@ class Queues {
             cout << "Queue is empty/n";
             return;
         }
+
+        cout << "\nElements in the queue are...\n";
     }
 };
