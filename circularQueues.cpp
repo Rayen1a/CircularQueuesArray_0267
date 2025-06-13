@@ -128,5 +128,8 @@ int main() {
                 }
             }
         }
+        catch (exception& e) {
+            cout << "Cetak for the values entered." << endl;
+        }
     }
 }
